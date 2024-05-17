@@ -1,0 +1,67 @@
+header h1{
+    color: red;
+    text-align: center;
+}
+nav{
+    display: flex;
+    gap: 20px;
+}
+.home1{
+    display: flex;
+    margin: 10px;
+}
+.home1 img{
+    margin: 20px;
+    padding: 50px;
+}
+.h1{
+    color: rebeccapurple;
+    margin-left: 90px;
+}
+.about{
+    display: flex;
+    padding: 30px;
+}
+.about .info{
+    padding: 30px;
+}
+#serviceid
+{
+    background-color:red ;
+    display: grid;
+    grid-template-columns:  33% 33% 33%;
+   
+    padding: 1px;
+}
+#secheader
+{
+    background-color:rgb(94, 83, 83) ;
+   
+    align-items: center;
+   
+    padding: 1px;
+}
+.container{
+    display: flex;
+    justify-content:right;
+}
+.container ul{
+    display: flex;
+}
+.container li{
+  
+  margin: 3px;
+    list-style: none;
+   
+}
+.container a{
+    text-decoration: none;
+    padding: 5px;
+}
+.Logo img{
+    width: 100px;
+}
+.container a:hover{
+    text-decoration: none;
+    padding: 5px;
+}
